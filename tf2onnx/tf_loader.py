@@ -8,6 +8,7 @@ import uuid
 from distutils.version import LooseVersion
 
 import tensorflow as tf
+
 import numpy as np
 from google.protobuf.message import DecodeError
 from tensorflow.core.framework import tensor_pb2
